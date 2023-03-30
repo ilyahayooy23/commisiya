@@ -1,0 +1,20 @@
+03/30/2023 23:31:41
+- AMD Ryzen 5 - $229.99
+- AMD Radeon RX 580 - $229.99
+- 128GB SSD - $49.99
+- 16GB DDR4 - $99.99
+- AssRock Steel Legend  - $89.99
+- NZXT H510 Elite - $99.99
+- NZXT Kraken z53 - $149.99
+Total price: $4729.719999999996
+
+03/30/2023 23:40:00
+- Intel Core i7 12700 - $299
+- Nvidia RTX 3060ti - $499
+- 512GB SSD Samsung m2 evo plus - $129
+- 32GB DDR4 2x16 - $199
+- AssRock Steel Legend  - $89
+- NZXT H510 Elite - $99
+- NZXT Kraken z53 - $149
+Total price: $5702
+
